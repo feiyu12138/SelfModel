@@ -3,7 +3,7 @@
 saved_meshes*
 __pycache__
 .DS_Store
-*/logs_*
+# */logs_*
 build
 *.zip
 tempt
